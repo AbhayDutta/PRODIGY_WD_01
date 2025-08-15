@@ -36,4 +36,4 @@ Live demo: [https://abhaydutta.github.io/PRODIGY_WD_01/](https://abhaydutta.gith
 
 ## Screenshot
 
-![Homepage Screenshot](images/Modern%20Landing%20Page.png)
+![Homepage Screenshot](/Images/ModernLandingPage.png)
