@@ -1,39 +1,33 @@
-# Modern Landing Page
+# Ray-Ban Landing Page
 
-This project is a clean and responsive landing page built using HTML, CSS, and JavaScript. It features smooth animations, interactive elements, and a modern design, making it perfect for showcasing products, services, or portfolio content.
+This project is a visually striking showcase for Ray-Ban, featuring dynamic animations, responsive design, and seamless interactions. Built with HTML, CSS, and JavaScript, it utilizes Shery.js for stunning image effects and GSAP for smooth animations, creating an immersive, modern experience.
 
-With elegant transitions, engaging interactions, and a mobile-friendly layout, the website delivers a pleasant and professional user experience.
-
----
-
-## Features
-
-- **Responsive Design** – Optimized for desktops, tablets, and mobile devices.  
-- **Smooth Animations** – Subtle effects to enhance user engagement.  
-- **Interactive Elements** – JavaScript-driven functionality for dynamic behavior.  
-- **Easy Customization** – Simple structure for replacing text, images, and colors.
-
----
-
-## Tech Stacks
-
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)
-
----
-
-## About
-
-This landing page was created as part of my **PRODIGY WD Internship**, focusing on practical web development skills. It combines clean design principles with interactive features for a complete front-end experience.  
+## Live Demo
 
 Live demo: [https://abhaydutta.github.io/PRODIGY_WD_01/](https://abhaydutta.github.io/PRODIGY_WD_01/)  
 
+## Features
 
----
+- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
+- **Smooth Animations**: GSAP-powered animations for a seamless user experience.
+- **Interactive Elements**: Engaging interactions using Shery.js for advanced image effects.
+- **Modern Aesthetic**: Sleek and contemporary design reflecting Ray-Ban's brand identity.
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Shery.js
+- GSAP (GreenSock Animation Platform)
+
+## About
+
+This landing page was developed as part of a personal project to showcase web development skills. It combines modern design principles with interactive features, providing a visually appealing and user-friendly experience.
 
 ## Screenshots
 
-![Homepage Screenshot](https://raw.githubusercontent.com/AbhayDutta/PRODIGY_WD_01/main/images/screenshot.png)
+![Homepage Screenshot](## Screenshots
 
----
+![Homepage Screenshot](images/Modern%20Landing%20Page.png)
+
