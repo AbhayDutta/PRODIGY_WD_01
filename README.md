@@ -22,18 +22,14 @@ This project is a visually striking landing page for Ray-Ban, featuring dynamic 
 
 ---
 
-## About
-
-This landing page was developed as a personal project to showcase web development skills. It combines modern design principles with interactive features, providing a visually appealing and user-friendly experience.
-
----
-
-## Live Demo
-
-Live demo: [https://abhaydutta.github.io/PRODIGY_WD_01/](https://abhaydutta.github.io/PRODIGY_WD_01/)  
-
----
-
 ## Screenshot
 
-![Homepage Screenshot](/Images/ModernLandingPage.png)
+![Homepage Screenshot](Images/Modern%20Landing%20Page.png)
+
+---
+
+## About
+
+This landing page was developed as a personal project to showcase web development skills. It combines modern design principles with interactive features, providing a visually appealing and user-friendly experience .
+
+
